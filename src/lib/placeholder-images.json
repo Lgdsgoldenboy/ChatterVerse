@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-landing",
+      "description": "A person writing in a notebook in a cozy, well-lit room.",
+      "imageUrl": "https://images.unsplash.com/photo-1591585182994-b97e6aa313c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3cml0aW5nJTIwcGVyc29ufGVufDB8fHx8MTc2MzA2MDQyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "writing person"
+    },
+    {
+      "id": "post-1",
+      "description": "An abstract painting with vibrant colors.",
+      "imageUrl": "https://images.unsplash.com/photo-1622542796254-5b9c46ab0d2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGFydHxlbnwwfHx8fDE3NjMxMDQyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract art"
+    },
+    {
+      "id": "post-2",
+      "description": "A futuristic cityscape at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1512364615838-8088a04a778b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmdXR1cmlzdGljJTIwY2l0eXxlbnwwfHx8fDE3NjMwOTk2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic city"
+    },
+    {
+      "id": "post-3",
+      "description": "Close-up of a computer motherboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb21wdXRlciUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzYzMDM2MDY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "computer technology"
+    },
+    {
+      "id": "post-4",
+      "description": "A lush green forest with sunlight filtering through the trees.",
+      "imageUrl": "https://images.unsplash.com/photo-1683054310699-5cc6e7ad7e01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmb3Jlc3QlMjBzdW58ZW58MHx8fHwxNzYzMDA5MzI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest sun"
+    },
+    {
+      "id": "post-5",
+      "description": "A person looking through a telescope at the night sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1615653058464-841639bb85ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdGFyZ2F6aW5nJTIwdGVsZXNjb3BlfGVufDB8fHx8MTc2MzEyMTcwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stargazing telescope"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Avatar for Jane Doe.",
+      "imageUrl": "https://images.unsplash.com/photo-1557053910-d9eadeed1c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MzEwMjI2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Avatar for Sam Wilson.",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjMwNjYyMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Avatar for Emily Carter.",
+      "imageUrl": "https://images.unsplash.com/photo-1542596768-5d1d21f1cf98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2MzAzMjg1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    }
+  ]
 }
